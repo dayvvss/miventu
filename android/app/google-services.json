@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032587151500",
+    "project_id": "miventu-11xh54",
+    "storage_bucket": "miventu-11xh54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032587151500:android:1f9ef74384f41c414413a9",
+        "android_client_info": {
+          "package_name": "com.mycompany.miventu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzH9_jeaQbF_7li-oPfOhP9ujzg74QT6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
